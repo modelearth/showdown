@@ -5458,3 +5458,4 @@ if (typeof define === 'function' && define.amd) {
 }).call(this);
 
 //# sourceMappingURL=showdown.js.map
+// File had mixed line endings. Normalized to Windows-style automatically by GitHub
